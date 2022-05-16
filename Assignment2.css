@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: black;
+    color: white;
+    margin-top: 10px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding: 15px 0;
+    padding-left: 10px;
+}
+.menu{
+    padding-left: 850px;
+
+}
+a{
+    padding-left: 25px;
+    text-decoration: none;
+    color: white;
+    padding: 0 10px;
+
+    
+}
+input{
+    padding-left: 5px 2px;
+    padding: 10px;
+}
+.btn{
+    padding: 10px 5px;
+    background-color: black;
+    border-color: green;
+    border: 2px solid green;
+    color: white;
+}
+.wmn{
+    box-sizing: border-box;
+    margin:auto;
+    width: 70%;
+    padding-left: 50px;
+    font-family: sans-serif;
+    font-size: 25px;
+}
+.wmn form{
+    border-radius: 5px;
+    border: 1px solid gray;
+    width: 80%;
+    height: 250px;
+}
+
+
